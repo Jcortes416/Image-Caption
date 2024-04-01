@@ -2,7 +2,7 @@
 # Image Caption
 
 ## Description
-Provide a brief description of the project here. Mention the main goal, the technologies or models used, and the specific field or problem it addresses (e.g., NLP, computer vision, etc.).
+Image Captioning  
 
 ## Installation
 
